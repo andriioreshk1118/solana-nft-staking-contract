@@ -1,0 +1,10 @@
+/root/work/blockchain/solana/solana-nft-staking-contract/target/debug/deps/libborsh_schema_derive_internal-87f5f4506ba5c22d.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/helpers.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/root/work/blockchain/solana/solana-nft-staking-contract/target/debug/deps/libborsh_schema_derive_internal-87f5f4506ba5c22d.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/helpers.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/root/work/blockchain/solana/solana-nft-staking-contract/target/debug/deps/borsh_schema_derive_internal-87f5f4506ba5c22d.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/helpers.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/helpers.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/enum_schema.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-schema-derive-internal-0.9.1/src/struct_schema.rs:

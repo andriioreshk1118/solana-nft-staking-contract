@@ -1,0 +1,12 @@
+/root/work/blockchain/solana/solana-nft-staking-contract/target/debug/deps/libthiserror_impl-5c8fafd95c668d7e.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/ast.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/fmt.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/generics.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/prop.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/valid.rs
+
+/root/work/blockchain/solana/solana-nft-staking-contract/target/debug/deps/thiserror_impl-5c8fafd95c668d7e.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/ast.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/fmt.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/generics.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/prop.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/valid.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/ast.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/fmt.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/generics.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/prop.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-impl-1.0.30/src/valid.rs:

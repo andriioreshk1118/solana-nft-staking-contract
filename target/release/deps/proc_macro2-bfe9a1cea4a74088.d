@@ -1,0 +1,12 @@
+/root/work/blockchain/solana/solana-nft-staking-contract/target/release/deps/proc_macro2-bfe9a1cea4a74088.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/marker.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/parse.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/detection.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/fallback.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/wrapper.rs
+
+/root/work/blockchain/solana/solana-nft-staking-contract/target/release/deps/libproc_macro2-bfe9a1cea4a74088.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/marker.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/parse.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/detection.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/fallback.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/wrapper.rs
+
+/root/work/blockchain/solana/solana-nft-staking-contract/target/release/deps/proc_macro2-bfe9a1cea4a74088.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/marker.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/parse.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/detection.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/fallback.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/wrapper.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/marker.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/parse.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/detection.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/fallback.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.36/src/wrapper.rs:
